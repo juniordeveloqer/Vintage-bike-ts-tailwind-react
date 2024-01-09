@@ -14,7 +14,7 @@ import vdraw from "@/assets/vintagedraw.png";
 const benefits: Array<BenefitType> = [
   {
     image: bikelogo,
-    title: "State Of The Art Facilitis",
+    title: "State Of The Arta Facilitis",
     customClasses: "py-3",
     description:
       "The Cub won t be disappearing anytime soon. To help celebrate its 50th anniversary back in 2008, Honda churned out its 60 millionth unit, and sales haven t slowed; the 100 millionth Super Cub rolled off the line in 2017.",
@@ -22,14 +22,14 @@ const benefits: Array<BenefitType> = [
   {
     image: bikelogo1,
     customClasses: "py-[45px]",
-    title: "State Of The Art Facilitis",
+    title: "State Of The Ardt Facilitis",
     description:
       "The Gold Star was a pin awarded to riders able to lap the Brooklands circuit at an average speed north of 100 mph. In 1937 Wal Handley came out of retirement, hopped on a BSA, recorded a lap speed of 107.5 mph, and the BSA Gold Star was born.",
   },
   {
     image: bikelogo2,
     customClasses: "py-14",
-    title: "State Of The Art Facilitis",
+    title: "State Of The Artf Facilitis",
     description:
       "So successful were the Norton Commando race bikes that the term “unapproachable Norton” was coined in pit row. Interestingly, though, what made the Nortons so tough on the track was how approachable they actually were.",
   },
@@ -124,14 +124,14 @@ const Benefits = ({ setSelectedPage }: Props) => {
                 inherent with high strung twins at speed was all but eliminated.
                 Riders could now push harder for much longer stints. It also
                 meant riders would often go for broke; early Nortons were famous
-                for leaking a bit of oil here and there, but we’re pretty sure
+                for leaking a bit of oil here and there, but were pretty sure
                 they were just sweating horsepower.
               </p>
               <p className="my-5">
                 Norton motorcycles and the Isle of Man TT go together like
                 strawberries and Devonshire cream. Having competed in every
                 Tourist Trophy race since its inception (1907), Norton made the
-                race their raison d’etre. In 1950, the team was working with an
+                race their raison dtere. In 1950, the team was working with an
                 antiquated and underpowered package. The “Featherbed” frame
                 featured a fully welded duplex frame and pivoted rear fork
                 suspension setup, instantly reducing weight and exponentially
