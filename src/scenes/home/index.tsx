@@ -6,7 +6,7 @@ import SponsorDucati from "@/assets/SponsorDucati.png";
 import SponsorHarley from "@/assets/SponsorHarley.png";
 import SponsorNissan from "@/assets/SponsorNissan.png";
 import Sacura from "@/assets/sacura.png";
-import Sbmw from "@/assets/Sbmw.png";
+import Sbmw from "@/assets/sbmw.png";
 import chain from "@/assets/chai.png";
 
 import Syamaha from "@/assets/Syamaha.png";
