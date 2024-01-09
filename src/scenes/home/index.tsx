@@ -9,7 +9,7 @@ import sacura from "@/assets/sacura.png";
 import Sbmw from "@/assets/sbmw.png";
 import chain from "@/assets/chai.png";
 
-import Syamaha from "@/assets/Syamaha.png";
+import syamaha from "@/assets/syamaha.png";
 
 import AnchorLink from "react-anchor-link-smooth-scroll";
 import { motion } from "framer-motion";
@@ -102,7 +102,7 @@ const Home = ({ setSelectedPage }: Props) => {
               <div className="flex items-center justify-between gap-8  ">
                 <img alt="Harley-sponsor" src={Sbmw} className="h-20"></img>
                 <img alt="-" src={sacura} className="h-20"></img>
-                <img alt="-" src={Syamaha} className="h-20"></img>
+                <img alt="-" src={syamaha} className="h-20"></img>
                 <img alt="-" src={SponsorHarley} className="h-20"></img>
                 <img
                   alt="Nissan-sponsor"
